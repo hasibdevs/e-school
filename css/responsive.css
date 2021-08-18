@@ -1,0 +1,71 @@
+/*   =================Device view============ */
+@media(max-width:1100px){
+	.container{
+		width:100%;
+
+	}
+}
+@media(max-width:576px){
+	.logo {
+    width: 25%;
+	}
+	nav {
+	    width: 75%;
+	}	
+	nav ul li a {
+    	color: black;
+    	font-size: 15px;
+    	padding: 5px 12px;
+	}
+	h1 {
+    	font-size: 30px;
+        margin: 10px 0;
+	}
+	h1 span {
+    	font-size: 30px !important;
+	}
+	.banner-content span {
+    	font-size: 15px;
+	}
+	p {
+    	font-size: 15px;
+	}
+	.btn {
+    	font-size: 15px;
+	}
+	.couse {
+		text-align: center;
+	}
+
+	.col-4 {
+    	width: 100%;
+	}
+	.col-3 {
+    	width: 100%;
+	}
+	.heading h2 {
+    	font-size: 30px;
+	}
+	.clien-img {
+   		width: 25%;
+	}
+	.clien-content {
+    	width: 75%;
+	}
+
+	.clien-content p {
+    	font-size: 11px;
+    	line-height: 17.2px;
+	}
+	footer p {
+    	font-size: 15px;
+    	padding: 0 20px;
+	}
+	footer.col-4 {
+    	width: 25% !important;
+    	padding: 15px;
+	}
+	footer {
+    	text-align: center;
+	}
+}
